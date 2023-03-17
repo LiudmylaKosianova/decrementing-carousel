@@ -1,7 +1,5 @@
 package com.epam.rd.autotasks;
- package classes;
-
-import java.util.ArrayList;
+ 
 
 /**
  * Decrementing Carousel is a container, accepting int elements. DecrementingCarousel has a maximum capacity,
